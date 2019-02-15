@@ -7,8 +7,8 @@
     text-align: center;
 }
 
-/* @media (min-width: 500px) {
-    .Person {
+@media (min-width: 500px) {
+    .Person_Details {
         width: 450px;
     }
-} */
+}
